@@ -1,30 +1,3 @@
-# tifa.io
+# tifa.github.io 🐾
 
-# Setup
-
-### Install Dependencies
-
-```
-npm install
-```
-
-### Build
-
-```
-npm run build
-```
-
-### Watch
-```
-npm run watch
-```
-
-### Serve
-```
-npm run serve
-```
-
-### Debug
-```
-npm run debug
-```
+Landing page for [tifa.dev](https://tifa.dev).

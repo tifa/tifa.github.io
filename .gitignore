@@ -1,5 +1,1 @@
-public/
-src/css/
-*.tpl
-
-node_modules/
+.DS_Store
